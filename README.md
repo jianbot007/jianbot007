@@ -2,28 +2,30 @@
 
 ### 💻 Backend Enthusiast | Entry-Level Software Engineer | 🚀 Open to Work
 
-> ⚙️ Passionate about crafting scalable and secure systems with clean architecture & engineering excellence.
+> ⚙️ Passionate about building scalable, secure, and intelligent systems — with clean architecture and engineering discipline.
+
+📖 **Read my blogs:** I write about what I learn → [debugwithmahfuz.up.railway.app/blog](https://debugwithmahfuz.up.railway.app/blog)
 
 ---
 
 ## 🧠 About Me
 
-Driven by curiosity and problem-solving, I specialize in **Backend Development** — building **robust APIs**, **microservices**, and **scalable backend systems**.
-I love to explore **how software works under the hood**, combining engineering discipline with creative problem-solving.
+I’m a software engineer focused on **Backend Development** — designing **robust APIs**, **microservices**, and scalable systems.
+My curiosity lies in understanding how software works under the hood and making it work *smarter and cleaner*.
 
-🎯 *Currently open to Entry-Level Software Engineering opportunities where I can contribute and grow.*
+🎯 *Currently open to Entry-Level Software Engineering roles where I can contribute and grow.*
 
 ---
 
 ## 🛠️ Core Engineering Focus
 
-| 🔍 Core Concept                | 💡 Focus Area                                                                                                |
-| :----------------------------- | :----------------------------------------------------------------------------------------------------------- |
-| **Backend Architecture**       | RESTful APIs, **gRPC**, **CQRS**, **Microservices**, **Clean Architecture**, **Domain-Driven Design (DDD)**  |
-| **System Design & Deployment** | **Docker**, **Containerization**, CI/CD, and scalable cloud deployment                                       |
-| **Architecture Patterns**      | **3-Tier**, **Onion Architecture**, **SOLID Principles**, **Dependency Injection**, **Layered Architecture** |
-| **Security**                   | **JWT Authentication**, **Role-Based Access Control (RBAC)**, input validation, and data integrity           |
-| **Core CS Fundamentals**       | OS, Networking, Concurrency, and System Design concepts                                                      |
+| 🔍 Core Concept                | 💡 Focus Area                                                                               |
+| :----------------------------- | :------------------------------------------------------------------------------------------ |
+| **Backend Architecture**       | RESTful APIs, **gRPC**, **CQRS**, **Microservices**, **Clean Architecture**, **DDD**        |
+| **System Design & Deployment** | **Docker**, containerization, CI/CD, and cloud deployment                                   |
+| **Architecture Patterns**      | **3-Tier**, **Onion Architecture**, **SOLID**, **Dependency Injection**, **Layered Design** |
+| **Security**                   | **JWT Authentication**, **RBAC**, input validation, and API hardening                       |
+| **Core CS Fundamentals**       | OS, Networking, and System Design principles                                                |
 
 ---
 
@@ -47,55 +49,55 @@ I love to explore **how software works under the hood**, combining engineering d
 
 ### 📰 SnapBrief AI — *News Aggregation with Microservices & LLM*
 
-🧩 **Tech:** Spring Boot • FastAPI • LangChain • Gemini API • PostgreSQL • Docker
-💡 **Focus:** Designed containerized **microservices** for AI-powered news summarization and categorization.
+**Tech:** Spring Boot • FastAPI • LangChain • Gemini API • PostgreSQL • Docker
+**Highlights:** Designed containerized **microservices** for AI-powered news summarization and categorization.
 
 ---
 
 ### 🛒 E-Commerce — *Secure Full-Stack System*
 
-🧩 **Tech:** NestJS • NextJS • PostgreSQL • JWT
-💡 **Focus:** Built full authentication & **Role-Based Access Control** using **JWT** and **DTO-based validation**.
+**Tech:** NestJS • NextJS • PostgreSQL • JWT
+**Highlights:** Implemented **JWT Authentication** & **RBAC**, ensuring secure user and admin data flow.
 
 ---
 
 ### 📞 PhoneBook Management System
 
-🧩 **Tech:** ASP.NET MVC • SOLID • 3-Tier • Dependency Injection
-💡 **Focus:** Architected clean, scalable system following **SOLID** and **Dependency Inversion**.
+**Tech:** ASP.NET MVC • SOLID • 3-Tier • Dependency Injection
+**Highlights:** Architected scalable system using **SOLID** and **3-Tier Architecture** for clean separation of concerns.
 
 ---
 
 ### 🏦 Bank Management API
 
-🧩 **Tech:** Spring Boot • PostgreSQL • JWT Security
-💡 **Focus:** Implemented secure **REST API** with **Spring Security**, enforcing strict **role-based access**.
+**Tech:** Spring Boot • PostgreSQL • JWT Security
+**Highlights:** Developed secure **REST API** using **Spring Security** and role-based access control.
 
 ---
 
-### 🎬 Freelance: *Ambient Bliss* — Event Management Platform
+### 🎬 Freelance Project: *Ambient Bliss — Event Management Platform*
 
-🧩 **Tech:** ASP.NET MVC • SQL Server • Razor • Bootstrap
-💡 **Delivered:** Full-stack solution with custom CMS and secure admin dashboard for real-time booking and content control.
+**Tech:** ASP.NET MVC • SQL Server • Razor • Bootstrap
+**Highlights:** Delivered full-stack solution with CMS, booking system, and secure admin dashboard.
 
 ---
 
 ## 💡 Problem Solving & Algorithms
 
-* 💻 Solved **130+ LeetCode** problems (≈200 total across platforms)
-* 🧮 Focus on **Data Structures**, **Algorithms**, and **Optimization**
+* 🧩 Solved **130+ LeetCode** problems (≈200 total across platforms)
+* 🧮 Focused on writing clean, efficient, and optimized algorithms in **Java** and **C++**
 
 ---
 
 ## 🎓 Education
 
-🎓 **BSc in Computer Science & Engineering**, *AIUB*
+🎓 **BSc in Computer Science & Engineering** — *American International University Bangladesh (AIUB)*
 ⭐ **CGPA:** 3.93/4.00
-🏅 **Dean’s List Honors ×5** | **AIUB Dean’s Award for Academic Excellence**
+🏅 **Dean’s List (x5)** | **AIUB Dean’s Award for Academic Excellence**
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Let’s Connect
 
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-debugwithmahfuz.up.railway.app-blue?style=flat-square)](https://debugwithmahfuz.up.railway.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kazi%20Mahfuzur%20Rahman-blue?style=flat-square\&logo=linkedin)](https://bd.linkedin.com/in/kazi-mahfuzur-rahman-840565222)
@@ -104,4 +106,4 @@ I love to explore **how software works under the hood**, combining engineering d
 
 ---
 
-> ✨ *"Code with clarity. Design with discipline. Deploy with confidence."* 🚀
+⭐ *"Clean code isn’t written by chance — it’s designed with purpose."*
