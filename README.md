@@ -1,79 +1,107 @@
-# 👋 Hello, I'm Kazi Mahfuzur Rahman
+# 👋 Hello, I'm **Kazi Mahfuzur Rahman**
 
-### 💻 Backend Enthusiast | Entry-Level Software Engineer | OPEN TO WORK
+### 💻 Backend Enthusiast | Entry-Level Software Engineer | 🚀 Open to Work
 
-I am passionate about solving technical challenges and building innovative solutions through programming and engineering. This drive naturally steers my focus toward **Backend Development**, where I excel in creating scalable, secure, and intelligent systems.
-
-I am actively seeking an **Entry-Level Software Engineering** role to contribute my technical expertise and collaborative spirit to a high-performing team.
+> ⚙️ Passionate about crafting scalable and secure systems with clean architecture & engineering excellence.
 
 ---
 
-## 🛠️ Core Engineering Focus & Expertise
+## 🧠 About Me
 
-My curiosity lies in the underlying mechanics of modern software. I am highly motivated to learn and implement:
+Driven by curiosity and problem-solving, I specialize in **Backend Development** — building **robust APIs**, **microservices**, and **scalable backend systems**.
+I love to explore **how software works under the hood**, combining engineering discipline with creative problem-solving.
 
-| Core Concept | Area of Interest & Application |
-| :--- | :--- |
-| **Backend Architecture** | Specializing in **RESTful APIs**, efficient API connectivity, and designing robust, scalable **Microservices**. Adhering to architectural standards like **SOLID principles** and **3-Tier Architecture** with a focus on **Dependency Injection**. |
-| **Containerization & Deployment** | Hands-on experience with **Docker** for containerizing applications, ensuring deployment consistency and efficiency (**Dockerization**). |
-| **System Security** | Implementing secure **JWT-based Authentication** and **Role-Based Access Control** across applications (e.g., E-Commerce & Bank Management). |
-| **System Fundamentals** | Strong interest in **Operating System (OS)** concepts and basic networking protocols. |
-
-### Tech Stack & Tools
-
-* **Backend Frameworks:** Spring Boot, ASP.NET MVC, NestJS, NextJS (Full-Stack context).
-* **Languages:** Java, C/C++, C#, JavaScript, Typescript.
-* **Databases:** PostgreSQL, MySQL, Microsoft SQL Server, Oracle.
-* **Tools:** Git, GitHub, Postman, Entity Framework, Hibernate, Langchain.
+🎯 *Currently open to Entry-Level Software Engineering opportunities where I can contribute and grow.*
 
 ---
 
-## 🚀 Projects & Experience Highlights
+## 🛠️ Core Engineering Focus
 
-### Featured Projects (Focusing on Architecture)
-
-#### 1. SnapBrief AI - News Aggregation (Microservice)
-* **Tech Focus:** SpringBoot, FastAPI, LangChain, LLM API (Gemini), PostgreSQL, **Docker**, **Microservice**.
-* **Key Achievement:** Designed and containerized a news aggregation system using a **Microservices Architecture**. Developed an AI-powered workflow to summarize and categorize news, validated with Postman.
-
-#### 2. E-Commerce - Full Stack
-* **Tech Focus:** TypeScript, NestJs, NextJs, PostgreSQL, **JWT Authentication**.
-* **Key Achievement:** Built a platform featuring secure **JWT Authentication** and **Role-Based Access Control**. Ensured data integrity using **DTO-based validation** and CORS middleware.
-
-#### 3. PhoneBook Management System
-* **Tech Focus:** ASP.Net (MVC), **3-tier architecture**, **SOLID principle**, **Dependency Injection**.
-* **Key Achievement:** Engineered a scalable and maintainable application by strictly following a **3-tier architecture**, adhering to **SOLID principles**, and leveraging **Dependency Inversion** for clean design.
-
-#### 4. Bank Management System (API Based)
-* **Tech Focus:** Springboot, PostgreSQL, **JWT-based Authentication**, **3-tier architecture**.
-* **Key Achievement:** Built a RESTful banking API secured using **JWT-based authentication and authorization** with Spring Security, restricting access based on User and Administrative roles.
-
-### 💼 Freelance Work: Ambient Bliss - Event Management Website
-
-* **Tech Focus:** ASP.NET MVC, Razor, SQL Server, Bootstrap.
-* **Key Achievement:** Delivered a complete **Full-Stack Solution** with a custom CMS and a secure admin dashboard, allowing the client to manage all content and bookings independently. Implemented efficient database queries using LINQ.
+| 🔍 Core Concept                | 💡 Focus Area                                                                                                |
+| :----------------------------- | :----------------------------------------------------------------------------------------------------------- |
+| **Backend Architecture**       | RESTful APIs, **gRPC**, **CQRS**, **Microservices**, **Clean Architecture**, **Domain-Driven Design (DDD)**  |
+| **System Design & Deployment** | **Docker**, **Containerization**, CI/CD, and scalable cloud deployment                                       |
+| **Architecture Patterns**      | **3-Tier**, **Onion Architecture**, **SOLID Principles**, **Dependency Injection**, **Layered Architecture** |
+| **Security**                   | **JWT Authentication**, **Role-Based Access Control (RBAC)**, input validation, and data integrity           |
+| **Core CS Fundamentals**       | OS, Networking, Concurrency, and System Design concepts                                                      |
 
 ---
 
-## 🧠 Problem Solving & Algorithms
+## 🧰 Tech Stack & Tools
 
-I maintain a strong focus on Data Structures and Algorithms (DSA) to write clean, efficient, and performant code.
+**Languages:**
+`Java` • `C#` • `C++` • `TypeScript` • `JavaScript`
 
-* **LeetCode Solved:** **130+ DSA problems** solved on LeetCode, with a total of **~200 problems** completed using Java and C++.
+**Frameworks:**
+`Spring Boot` • `ASP.NET MVC` • `NestJS` • `NextJS`
+
+**Databases:**
+`PostgreSQL` • `MySQL` • `MSSQL` • `Oracle`
+
+**Tools & Others:**
+`Docker` • `Git` • `GitHub` • `Postman` • `Entity Framework` • `Hibernate` • `LangChain`
 
 ---
 
-## 🎓 Education & Achievements
+## 🚀 Highlighted Projects
 
-* **BSc in Computer Science & Engineering** - American International University Bangladesh (AIUB)
-    * **CGPA:** 3.93/4.00
-* **Recognition:** Dean's List Honors X 5, AIUB Dean's Award for Academic Excellence.
+### 📰 SnapBrief AI — *News Aggregation with Microservices & LLM*
 
-### 🔗 Connect with Me
+🧩 **Tech:** Spring Boot • FastAPI • LangChain • Gemini API • PostgreSQL • Docker
+💡 **Focus:** Designed containerized **microservices** for AI-powered news summarization and categorization.
 
-| Platform | Link |
-| :--- | :--- |
-| **Portfolio/Website** | [debugwithmahfuz.up.railway.app](https://debugwithmahfuz.up.railway.app/) |
-| **LinkedIn** | [kazi-mahfuzur-rahman-840565222](https://bd.linkedin.com/in/kazi-mahfuzur-rahman-840565222) |
-| **LeetCode** | [jian\_Mahfuz](https://leetcode.com/u/jian_Mahfuz) |
-| **Email** | kmrahman744@gmail.com |
+---
+
+### 🛒 E-Commerce — *Secure Full-Stack System*
+
+🧩 **Tech:** NestJS • NextJS • PostgreSQL • JWT
+💡 **Focus:** Built full authentication & **Role-Based Access Control** using **JWT** and **DTO-based validation**.
+
+---
+
+### 📞 PhoneBook Management System
+
+🧩 **Tech:** ASP.NET MVC • SOLID • 3-Tier • Dependency Injection
+💡 **Focus:** Architected clean, scalable system following **SOLID** and **Dependency Inversion**.
+
+---
+
+### 🏦 Bank Management API
+
+🧩 **Tech:** Spring Boot • PostgreSQL • JWT Security
+💡 **Focus:** Implemented secure **REST API** with **Spring Security**, enforcing strict **role-based access**.
+
+---
+
+### 🎬 Freelance: *Ambient Bliss* — Event Management Platform
+
+🧩 **Tech:** ASP.NET MVC • SQL Server • Razor • Bootstrap
+💡 **Delivered:** Full-stack solution with custom CMS and secure admin dashboard for real-time booking and content control.
+
+---
+
+## 💡 Problem Solving & Algorithms
+
+* 💻 Solved **130+ LeetCode** problems (≈200 total across platforms)
+* 🧮 Focus on **Data Structures**, **Algorithms**, and **Optimization**
+
+---
+
+## 🎓 Education
+
+🎓 **BSc in Computer Science & Engineering**, *AIUB*
+⭐ **CGPA:** 3.93/4.00
+🏅 **Dean’s List Honors ×5** | **AIUB Dean’s Award for Academic Excellence**
+
+---
+
+## 🌐 Connect With Me
+
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-debugwithmahfuz.up.railway.app-blue?style=flat-square)](https://debugwithmahfuz.up.railway.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kazi%20Mahfuzur%20Rahman-blue?style=flat-square\&logo=linkedin)](https://bd.linkedin.com/in/kazi-mahfuzur-rahman-840565222)
+[![LeetCode](https://img.shields.io/badge/LeetCode-jian_Mahfuz-orange?style=flat-square\&logo=leetcode)](https://leetcode.com/u/jian_Mahfuz)
+📧 **Email:** [kmrahman744@gmail.com](mailto:kmrahman744@gmail.com)
+
+---
+
+> ✨ *"Code with clarity. Design with discipline. Deploy with confidence."* 🚀
