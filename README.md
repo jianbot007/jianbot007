@@ -14,17 +14,17 @@ My curiosity lies in the underlying mechanics of modern software. I am highly mo
 
 | Core Concept | Area of Interest & Application |
 | :--- | :--- |
-| **Backend Architecture** | [cite_start]Specializing in **RESTful APIs**, efficient API connectivity, and designing robust, scalable **Microservices**[cite: 9, 21]. |
-| **Containerization** | [cite_start]Hands-on experience with **Docker** for containerizing applications (e.g., in the SnapBrief AI project), ensuring deployment consistency and efficiency[cite: 9, 33]. |
-| **System Fundamentals** | [cite_start]Strong interest in **Operating System (OS)** concepts, basic networking protocols, and adhering to architectural standards like **SOLID principles** and 3-Tier Architecture[cite: 21, 41]. |
-| **AI/ML Integration** | [cite_start]Experienced in integrating **ML/AI** and **LLM APIs (Gemini)** into backend microservices, demonstrated in the SnapBrief AI project[cite: 9, 32]. |
+| **Backend Architecture** | Specializing in **RESTful APIs**, efficient API connectivity, and designing robust, scalable **Microservices**. |
+| **Containerization** | Hands-on experience with **Docker** for containerizing applications, ensuring deployment consistency and efficiency. |
+| **System Fundamentals** | Strong interest in **Operating System (OS)** concepts, basic networking protocols, and adhering to architectural standards like **SOLID principles** and 3-Tier Architecture. |
+| **AI/ML Integration** | Experienced in integrating **ML/AI** and **LLM APIs (Gemini)** into backend microservices. |
 
 ### Tech Stack & Tools
 
-* [cite_start]**Backend Frameworks:** Spring Boot, ASP.NET MVC, NestJS, NextJS (Full-Stack context)[cite: 9, 21].
-* [cite_start]**Languages:** Java, C/C++, C#, JavaScript, Typescript[cite: 21].
-* [cite_start]**Databases:** PostgreSQL, MySQL, Microsoft SQL Server, Oracle[cite: 21].
-* [cite_start]**Tools:** Git, GitHub, Postman, Entity Framework, Hibernate, Langchain[cite: 21, 30].
+* **Backend Frameworks:** Spring Boot, ASP.NET MVC, NestJS, NextJS (Full-Stack context).
+* **Languages:** Java, C/C++, C#, JavaScript, Typescript.
+* **Databases:** PostgreSQL, MySQL, Microsoft SQL Server, Oracle.
+* **Tools:** Git, GitHub, Postman, Entity Framework, Hibernate, Langchain.
 
 <br>
 
@@ -32,16 +32,16 @@ My curiosity lies in the underlying mechanics of modern software. I am highly mo
 
 I maintain a strong focus on Data Structures and Algorithms (DSA) to write clean, efficient, and performant code.
 
-* [cite_start]**LeetCode Solved:** **130+ DSA problems** solved on LeetCode, with a total of **~200 problems** completed using Java and C++[cite: 21].
+* **LeetCode Solved:** **130+ DSA problems** solved on LeetCode, with a total of **~200 problems** completed using Java and C++.
 
 <br>
 
 ## 🎓 Education & Achievements
 
 * **BSc in Computer Science & Engineering** - American International University Bangladesh (AIUB)
-    * [cite_start]**CGPA:** 3.93/4.00 [cite: 53]
-* [cite_start]**Key Relevant Courses:** Advanced .Net (ASP MVC), Advanced Webtech (NestJs, NextJs), Machine Learning, **Computer Vision** & Pattern[cite: 55, 56].
-* [cite_start]**Recognition:** Dean's List Honors X 5, AIUB Dean's Award for Academic Excellence[cite: 62, 63].
+    * **CGPA:** 3.93/4.00
+* **Key Relevant Courses:** Advanced .Net (ASP MVC), Advanced Webtech (NestJs, NextJs), Machine Learning, **Computer Vision** & Pattern.
+* **Recognition:** Dean's List Honors X 5, AIUB Dean's Award for Academic Excellence.
 
 ---
 
@@ -49,6 +49,7 @@ I maintain a strong focus on Data Structures and Algorithms (DSA) to write clean
 
 | Platform | Link |
 | :--- | :--- |
-| **LinkedIn** | [cite_start][kazi-mahfuzur-rahman-840565222](https://bd.linkedin.com/in/kazi-mahfuzur-rahman-840565222) [cite: 4] |
-| **LeetCode** | [cite_start][jian\_Mahfuz](https://leetcode.com/u/jian_Mahfuz) [cite: 7] |
-| [cite_start]**Email** | kmrahman744@gmail.com [cite: 1] |
+| **Portfolio/Website** | [debugwithmahfuz.up.railway.app](https://debugwithmahfuz.up.railway.app/) |
+| **LinkedIn** | [kazi-mahfuzur-rahman-840565222](https://bd.linkedin.com/in/kazi-mahfuzur-rahman-840565222) |
+| **LeetCode** | [jian\_Mahfuz](https://leetcode.com/u/jian_Mahfuz) |
+| **Email** | kmrahman744@gmail.com |
