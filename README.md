@@ -2,7 +2,7 @@
 
 ### 💻 Backend Enthusiast | Entry-Level Software Engineer | 🚀 Open to Work
 
-> ⚙️ Passionate about building scalable, secure, and intelligent systems — with clean architecture and engineering discipline.
+⚙️ Passionate about building scalable, secure, and intelligent systems using .NET Core and Spring Boot — with clean architecture and strong engineering discipline.
 
 📖 **Read my blogs:** I write about what I learn → [debugwithmahfuz.up.railway.app/blog](https://debugwithmahfuz.up.railway.app/blog)
 
